@@ -1,0 +1,25 @@
+{
+  "name": "tut",
+  "version": "1.0.0",
+  "description": "a simple practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Komal-Arista/node-tut.git"
+  },
+  "keywords": [
+    "code"
+  ],
+  "author": "komal nagdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Komal-Arista/node-tut/issues"
+  },
+  "homepage": "https://github.com/Komal-Arista/node-tut#readme",
+  "dependencies": {
+    "color": "^4.2.3"
+  }
+}
