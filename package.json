@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/Komal-Arista/node-tut#readme",
   "dependencies": {
-    "color": "^4.2.3"
+    "colors": "^1.4.0",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
   }
 }
